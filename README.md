@@ -35,3 +35,7 @@ Clone the repository:
 git clone https://github.com/YourUsername/Gensim-Topic-Modeling.git
 cd Gensim-Topic-Modeling
 
+
+## Connect with me
+- [Medium Articles](https://medium.com/@anamali081)) 
+- [LinkedIn Profile](https://www.linkedin.com/in/anam-ali-b38856b2/)
